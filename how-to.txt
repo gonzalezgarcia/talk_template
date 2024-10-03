@@ -1,0 +1,2 @@
+- navigate to folder and in a terminal type: `pnpm dev` to preview the presentation in the browser
+- type `pnpm build` to build the static version of your presentation (check options here https://sli.dev/guide/hosting)
