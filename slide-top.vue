@@ -1,6 +1,6 @@
 <!-- an example header for pages -->
 <script setup>
-import NYUlogo from './components/nyulogo.vue'
+import NYUlogo from './components/ugr.vue'
 
 import { onMounted, ref, watch } from 'vue'
 import { useSlideContext } from '@slidev/client'
@@ -178,7 +178,7 @@ onMounted(() => checkvars())
     class="absolute top-3 right-2 p-3 pr-3 border.b-1 z-10 font-size-3 font-mono width-full text-right"
     :class="brand_tr_color"
   >
-    <a href="https://gureckislab.org"> <uim-cube /> gureckislab.org </a>
+    <a href="https://gonzalezgarcia.github.io"> <uim-cube /> ugr.es/~cgonzalez </a>
   </div>
 </template>
 

@@ -13,7 +13,7 @@ const props = defineProps({
     id="Layer_1"
     data-name="Layer 1"
     xmlns="http://www.w3.org/2000/svg"
-    viewBox="0 0 419.73 72"
+    viewBox="0 0 419.73 722"
     style="z-index: 10; width: 225px"
   >
     <rect :class="color2 + ' cls_2'" x="9.44" y="8" width="47.19" height="58.99" />
